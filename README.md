@@ -1,4 +1,4 @@
-# Speech To Text Chrome-Extension
+# Speech To Text Extension
 #### Speech To Text(STT) is an extension that allows you to write spoken text to any text field with just a right-click. Simply select the 'Write' option from the right-click context menu and start speaking, and our extension will do the rest. This is a great tool for those who may have difficulty typing. Give it a try and see how it can help you get things done faster!
 
 ## Installation
