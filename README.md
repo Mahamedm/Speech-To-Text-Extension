@@ -19,7 +19,7 @@ This extension is compatible with any browser that supports the WebkitSpeechReco
 
 https://caniuse.com/#search=webkit%20speech%20recognition
 
-***This code uses MV2. This version will soon be deprecated by 2024.**
+***This code uses MV2. This version will soon be deprecated by 2024. Will update to version 3 soon**
 
 ## Disclaimer
 Please note that STT is provided "as is" and without warranty of any kind.<br>Use of the extension is at your own risk, and the developer is not responsible for any damages or loss of data that may occur.
